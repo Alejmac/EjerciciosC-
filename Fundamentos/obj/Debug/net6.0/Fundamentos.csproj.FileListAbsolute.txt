@@ -1,0 +1,15 @@
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+C:\Users\jorge\Documents\CURSOS\csharp\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
